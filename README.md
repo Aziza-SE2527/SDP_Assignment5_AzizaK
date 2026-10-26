@@ -1,7 +1,7 @@
 # Strategy Pattern Assignment
 
 ## Project Overview
-This project implements the Strategy behavioral design pattern in Java (JDK 17) for Software Design Patterns (Assignment #5) at Astana IT University. It demonstrates how interchangeable algorithms can be encapsulated behind a common interface to eliminate conditional logic (if-else/switch) and allow runtime algorithm selection.
+This project implements the Strategy behavioral design pattern in Java (JDK 17) for Software Design Patterns (Assignment #5). It demonstrates how interchangeable algorithms can be encapsulated behind a common interface to eliminate conditional logic (if-else/switch) and allow runtime algorithm selection.
 
 ## Project Structure
 src/
